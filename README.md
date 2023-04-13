@@ -2,7 +2,6 @@
 
 <h1 align="center">Hello There, I'm Khanh 👋</h1>
 <h3 align="center">Passionate full-stack developer building user-centric products with intuitive problem-solving skills</h3>
-
 <br>
 <h4>I am a Full Stack Web Developer who takes great pride in building web applications that are both functional and aesthetically pleasing. I love the creative process of bringing ideas to life and finding innovative solutions to challenging problems. Additionally, I have a strong curiosity and desire to constantly acquire new skills, tools, and concepts to add to my toolkit.</h4>
 
