@@ -53,8 +53,13 @@
 <br>
 <br>
 
+## 📜 Certifications
+![Terraform Associate](https://img.shields.io/badge/Terraform%20Associate%20(003)-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+<br>
+<br>
+
 ## 📚 Currently Learning
-- Advanced Terraform
 - AWS certifications
 
 <br>
